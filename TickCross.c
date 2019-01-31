@@ -4,9 +4,6 @@
     FA18-BSE-10
     Started On: 15-9-2018
     Last Edited: 16-9-2018
-    Functions:
-        Draws Squares, with a line between it.
-        Draws Diamond of any possible size.
 */
 
 /*
