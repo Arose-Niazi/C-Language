@@ -63,13 +63,13 @@ int Mul(int a,int b) {return a*b;}
 float Div(int a,int b) {return (float) a/b;}
 int Power(int a,int b)
 {
-    int power=1,loop;
-    for(loop=1; loop <= b; loop++) power= power*a;
-    return power;
+	if(b == 0)
+		return 1;
+	return a*Power(a,b-1);
 }
 int Fact(int a)
 {
-    int fact=1,loop;
-    for(loop=1; loop <= a; loop++) fact= fact*loop;
-    return fact;
+    if(a == 0)
+		return 1;
+	return a*Fact(a-1);
 }
