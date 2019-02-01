@@ -10,7 +10,7 @@ Download the mingw version of it, as it includes the compiler.
 ### Files
 - Assignments
 	- 1 - Lab
-		- salary.c
+		- salary.c</br>
 			Calculation of Salary, as required by the instructor (Abdul Karim Shahid). 
 	- 2 - Lab
 		- IndianWeightConverter.c</br>
