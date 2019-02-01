@@ -8,17 +8,26 @@ Easiest way to run any of the my code is through compile and run through code bl
 Download the mingw version of it, as it includes the compiler. 
 
 ### Files
+- Assignments
+	- 1 - Lab
+		- salary.c
+			Calculation of Salary, as required by the instructor (Abdul Karim Shahid). 
+	- 2 - Lab
+		- IndianWeightConverter.c</br>
+			Used to prefrom conversions of
+			- ratti to masha
+			- masha to ratti
+			- masha to tola
+			- tola to masha
+			- tola to ser
+			- ser to tola
+	- 4 - Lab
+		- StructStudentsData.c
+			- Takes input of 5 students
+			- Prints their data and calculate avg.
 - Personal Learning
 	- CalculatorViaFunctions.c</br>
 		This program is used to preform calculations on max 2 inputs. 
-	- IndianWeightConverter.c</br>
-		Used to prefrom conversions of
-		- ratti to masha
-		- masha to ratti
-		- masha to tola
-		- tola to masha
-		- tola to ser
-		- ser to tola
 	- MatrixMultiplier.c </br>
 		This program, multiplies two matrix of any possible vaild size entered by user. 
 	- ShapesMaker.c</br>
@@ -28,4 +37,4 @@ Download the mingw version of it, as it includes the compiler.
 		- Square - with a line. 
 	- TicTacToe.c</br>
 		Simple TicTacToe game between two users. 
-  
+
