@@ -1,0 +1,13 @@
+PESUDO CODE
+
+To calculate electricity bill:-
+
+START
+Get consumed units.
+if units are <= 300
+	Then rate per unit is Rs 3
+else
+	Then the rate per unit is Rs5 with a 5% subcharge of total bill
+Formula for subcharge ((5/100)*Total)
+print the bill
+END	

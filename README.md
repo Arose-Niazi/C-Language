@@ -26,6 +26,18 @@ Download the mingw version of it, as it includes the compiler.
 		- StructStudentsData.c
 			- Takes input of 5 students
 			- Prints their data and calculate avg.
+- Lab Tasks
+	- Lab Work 1
+		- Ex1.c <br>
+			This programme prints different shapes.
+		- Ex2.c <br>
+			This programme prints number 1-4 using different methods of print
+		- Ex3.c <br>
+			This programme preforms basic addition, subtraction, multiplication, division, remainder by taking input from user
+		- Ex4.c <br>
+			This programme preforms swaps places of two numbers with and without third variable.
+		- Ex5.c <br>
+			This programme preforms calculation of area and perimeter of triangle.
 - Personal Learning
 	- CalculatorViaFunctions.c<br>
 		This program is used to preform calculations on max 2 inputs. 

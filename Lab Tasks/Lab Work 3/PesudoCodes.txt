@@ -1,0 +1,55 @@
+START
+initilize total consuption = 0 to get rid of any junk value
+Run infinite for loop
+Get liters from user
+check if liters are less than 0
+	break the loop
+get kilo meters driven
+consuption=liters/km*100;
+print consuption
+add consuption in total consuption 
+AFTER loop ends/breaks
+print avg consuption total consuption / times loop ran
+END
+
+
+START
+Take two integers loop=1 and sum=0
+Run a while loop with condition loop <= 30
+Check if number is even by taking modulus of 2 == 0
+	Add in sum
+increment in loop variable
+AFTER loop ends
+print the sum
+END
+
+
+START
+Take two integers loop=0 and product=1
+Run a while loop with condition loop <= 19
+Check if number is odd by taking modulus of 2 != 0
+	product*=loop;
+increment in loop variable
+AFTER loop ends
+print the product
+END
+
+START
+Run Infinite Loop
+Get Account No.
+If Account No is equal to -1 break the loop
+get inital balance,total charge,total credit and credit limit
+Balance = Inital Balance + Total Charge - Total Credit
+print account no, credit limit and balance
+if balance is more than credit limit print Credit limit Exceeded
+print new line
+AFTER loop ends
+END
+
+START
+Run Infinite Loop
+Get sales in pounds
+check if sales are less than 0 break the loop
+print the salary using formula (sales*0.09)+200
+AFTER loop Ends
+END
