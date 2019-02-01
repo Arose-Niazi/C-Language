@@ -38,6 +38,56 @@ Download the mingw version of it, as it includes the compiler.
 			This programme preforms swaps places of two numbers with and without third variable.
 		- Ex5.c <br>
 			This programme preforms calculation of area and perimeter of triangle.
+	- Lab Work 2
+		- Ex1.c <br>
+			This programe calculates Electric city bill.
+		- Ex2.c <br>
+			This programe calculates and prints user grade, status and percentage.
+		- Ex3.c <br>
+			This programe calculates discount.
+		- Ex4.c <br>
+			This programe to check if driver is insured or not.
+		- Ex5.c <br>
+			Prints sequence using while loop.
+		- Ex5 - For Loop.c<br>
+			Prints sequence using for loop.
+		- Ex6.c 
+			This programe gets 5 numbers and tells largest and smallest in them.
+		- Ex7.c
+			This programe tells if number is even or odd.
+		- Ex8.c 
+			This programe tells if number is even or odd and if its divided by 3 does this 10 times.
+		- Ex9.c
+			This programe calculates the interest.
+	- Lab Work 3
+		- Ex1.c <br>
+			This program calculates fuel consumption in liters/100km.
+		- Ex2.c <br>
+			This program uses while loop to calculate and print the sum of even integers 1 - 30.
+		- Ex3.c <br>
+			This program uses while loop to calculate and print the product of odd integers 0 - 19 .
+		- Ex4.c <br>
+			This programs take 4 digit input and prints its number separately.
+		- Ex4-Changed.c <br>
+			This programs take 4 digit input and prints its number separately.
+		- Ex4-Changed2.c <br>
+			This programs take 4 digit input and prints its number separately.	
+		- Ex5.c
+			This programs takes information about users account and prints it's balance and if they have crossed the limit or not.
+		- Ex6.c
+			This programs take sales and prints the salary.
+	- Lab Work 4
+		- Ex1.c <br>
+			Calculator with functions.
+		- Ex2.c <br>
+			Printing random numbers in specified range.
+		- Ex3.c <br>
+			Car parking rent charge calculator.
+		- Ex4.c <br>
+			C to F tempeatures table printer.
+		- Ex5.c <br>
+			Greatest common divider calculator.
+			
 - Personal Learning
 	- CalculatorViaFunctions.c<br>
 		This program is used to preform calculations on max 2 inputs. 
