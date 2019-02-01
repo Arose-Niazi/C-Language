@@ -87,6 +87,37 @@ Download the mingw version of it, as it includes the compiler.
 			C to F tempeatures table printer.
 		- Ex5.c <br>
 			Greatest common divider calculator.
+	- Lab Work 5
+		- Ex1.c <br>
+			Aggregate calculator.
+	- Lab Work 6
+		- Ex1.c <br>
+			This program prints the size,value etc. of variables
+		- Ex2.c <br>
+			Use of pointer.
+		- Ex3.c <br>
+			Swap using pointers.
+		- Ex3-0.c <br>
+			Swap using pointers. - Uncomplete i.e. question.
+	- Random
+		- CalculatorSelecting.c  <br>
+			Calculator.
+		- CalculatorSelectingFunctions.c <br>
+			Calculator using functions.
+		- Converter.c <br>
+			Ratti Tola Masha converter.
+		- feet_inc_adder.c <br>
+			Feets and inches adder.
+		- MultiplicationOfMatrix.c <br>
+			Multiplication of two matrix of same order.
+		- PalindromeChecker.c <br>
+			Palindrome checker with two different methods.
+		- stuct_student_qual.c <br>
+			Qualifiction using struct.
+		- student_data.c
+			Use of struct.
+		- TransposeSameArray.c
+			Transpose of same array.
 			
 - Personal Learning
 	- CalculatorViaFunctions.c<br>
