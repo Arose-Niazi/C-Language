@@ -10,10 +10,10 @@ Download the mingw version of it, as it includes the compiler.
 ### Files
 - Assignments
 	- 1 - Lab
-		- salary.c</br>
+		- salary.c <br>
 			Calculation of Salary, as required by the instructor (Abdul Karim Shahid). 
 	- 2 - Lab
-		- IndianWeightConverter.c</br>
+		- IndianWeightConverter.c <br>
 			Used to prefrom conversions of
 			- ratti to masha
 			- masha to ratti
@@ -26,15 +26,15 @@ Download the mingw version of it, as it includes the compiler.
 			- Takes input of 5 students
 			- Prints their data and calculate avg.
 - Personal Learning
-	- CalculatorViaFunctions.c</br>
+	- CalculatorViaFunctions.c<br>
 		This program is used to preform calculations on max 2 inputs. 
-	- MatrixMultiplier.c </br>
+	- MatrixMultiplier.c <br>
 		This program, multiplies two matrix of any possible vaild size entered by user. 
-	- ShapesMaker.c</br>
-		This program prints shape of the size entered by the user.</br>
+	- ShapesMaker.c <br>
+		This program prints shape of the size entered by the user.<br>
 		Shapes:
 		- Dimond
 		- Square - with a line. 
-	- TicTacToe.c</br>
+	- TicTacToe.c<br>
 		Simple TicTacToe game between two users. 
 
