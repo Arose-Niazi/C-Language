@@ -8,23 +8,24 @@ Easiest way to run any of the my code is through compile and run through code bl
 Download the mingw version of it, as it includes the compiler. 
 
 ### Files
-- CalculatorViaFunctions.c</br>
-  This program is used to preform calculations on max 2 inputs. 
-- IndianWeightConverter.c</br>
-  Used to prefrom conversions of
-  * ratti to masha
-  * masha to ratti
-  * masha to tola
-  * tola to masha
-  * tola to ser
-  * ser to tola
-- MatrixMultiplier.c </br>
-  This program, multiplies two matrix of any possible vaild size entered by user. 
-- ShapesMaker.c</br>
-  This program prints shape of the size entered by the user.</br>
-  Shapes:
-    * Dimond
-    * Square - with a line. 
-- TicTacToe.c</br>
-  Simple TicTacToe game between two users. 
+- Personal Learning
+	- CalculatorViaFunctions.c</br>
+		This program is used to preform calculations on max 2 inputs. 
+	- IndianWeightConverter.c</br>
+		Used to prefrom conversions of
+			* ratti to masha
+			* masha to ratti
+			* masha to tola
+			* tola to masha
+			* tola to ser
+			* ser to tola
+	- MatrixMultiplier.c </br>
+		This program, multiplies two matrix of any possible vaild size entered by user. 
+	- ShapesMaker.c</br>
+		This program prints shape of the size entered by the user.</br>
+		Shapes:
+			* Dimond
+			* Square - with a line. 
+	- TicTacToe.c</br>
+		Simple TicTacToe game between two users. 
   
