@@ -1,4 +1,4 @@
-# <p align='center'><img src='https://img.shields.io/badge/Developer-Arose%20Niazi-blue.svg?style=popout-square&logo=codio' /><img src='https://img.shields.io/badge/Build-passing-brightgreen.svg?style=popout-square&logo=codio' /><img src='https://img.shields.io/badge/Programmed%20in-C-blue.svg?style=popout-square&logo=codio' /></p>
+# <p align='center'> <img src='https://img.shields.io/badge/Developer-Arose%20Niazi-blue.svg?style=popout-square&logo=codio' /><img src='https://img.shields.io/badge/Build-passing-brightgreen.svg?style=popout-square&logo=codio' /><img src='https://img.shields.io/badge/Programmed%20in-C-blue.svg?style=popout-square&logo=codio' /> </p>
 ### Why?
 I just wanted to move all my code at github. I wrote all these in my first semester(FALL 18) at COMSATS University Islamabad, Lahore campus. 
 
