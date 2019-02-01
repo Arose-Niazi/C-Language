@@ -1,4 +1,5 @@
-# <p align="center"><img src='https://img.shields.io/badge/Developer-Arose%20Niazi-blue.svg?style=popout-square&logo=codio' />
+# <p align="center">
+<img src='https://img.shields.io/badge/Developer-Arose%20Niazi-blue.svg?style=popout-square&logo=codio' />
 <img src='https://img.shields.io/badge/Build-passing-brightgreen.svg?style=popout-square&logo=codio' />
 <img src='https://img.shields.io/badge/Programmed%20in-C-blue.svg?style=popout-square&logo=codio' />
 </p>
