@@ -17,10 +17,6 @@ Defines:
 Functions:
     main -> This is called as the starting function by any C Program.
 */
-
-char *Grades[] = {
-	"A","A-","B+","B","B-","C+","C","C-","D","F"
-};
 int main()
 {//Start of main function
     float marks,total=0.0;//Creating an float variable marks and total variable to store the total marks of the user
