@@ -137,4 +137,5 @@ Download the mingw version of it, as it includes the compiler.
 		Inputs age and salary, then prints that.
 	- q4_a.c
 		Sum of natural numbers.
+	- Lab Terminal.c 
 
